@@ -3,7 +3,7 @@
 ## web app link:
 [https://abyerali.github.io/OpenAiGame/index.html](https://abyerali.github.io/OpenAiGame/index.html)
 
-### the code in index.html was generated using open AI codex 
+the code in index.html was generated using open AI codex, copy paste these steps in open AI codex js playground to reproduce the code.
 
 ## steps to reproduce game.html web app from openAI codex.
 - place this image shotIcons: https://raw.githubusercontent.com/AbyerAli/myContent/main/crosshair.png
