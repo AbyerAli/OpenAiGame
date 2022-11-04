@@ -1,6 +1,11 @@
+# Open-AI generated web app demo
+
+## web app link:
+[https://abyerali.github.io/OpenAiGame/index.html](https://abyerali.github.io/OpenAiGame/index.html)
+
+### the code in index.html was generated using open AI codex 
 
 ## steps to reproduce game.html web app from openAI codex.
-
 - place this image shotIcons: https://raw.githubusercontent.com/AbyerAli/myContent/main/crosshair.png
 - scale shotIcon to 30px
 - change shotIcon postion to absolute
